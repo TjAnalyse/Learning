@@ -1,2 +1,2 @@
 # Learning
-Mannn, it took time
+Comprehensible Python Learning code - Learning to program
